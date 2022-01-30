@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 56px;
+}
+
+
+ header img {
+    border: 100px dotted deepskyblue;
+}
+
+
+header a {
+ background-color: rgb(255, 255, 255)  ;
+ padding:10px;
+ color:black;
+}
+
+
+h1,h2{
+    background-color:violet;
+    text-align: center;
+    border-top: 10px dotted tomato;
+}
+
+
+footer p {
+    background-color: brown;
+    text-align: right;
+}
